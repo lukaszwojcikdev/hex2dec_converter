@@ -17,6 +17,7 @@ Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 - [Author](#author)
 - [Site](#site)
 - [Summary](#summary)
+- [Disclaimer](#disclaimer)
 - [Download](#download)
 - [License](#license)
 
@@ -147,6 +148,10 @@ Visit the official project site for more information:
 ---
 ## Summary
 **HEX to DEC Converter** is a versatile tool for converting hexadecimal values to decimal values. It is designed to be simple, efficient, and easy to use, making it ideal for developers, engineers, and students working with numerical systems.
+
+---
+## Disclaimer
+By using this software, you agree to these terms. The software is provided as-is, and you use it at your own risk. The author does not accept any responsibility for damages or issues caused by the use of this software.
 
 ---
 ## Download
