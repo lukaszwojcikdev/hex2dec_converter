@@ -2,7 +2,7 @@
 Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Flukaszwojcik.eu/hex2dec)
+![Website](https://img.shields.io/website?url=https://lukaszwojcik.eu/hex2dec)
 ![version](https://img.shields.io/badge/version-1.0c-blue)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=Go&logoColor=white&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lukasz-michal-wojcik)
@@ -163,4 +163,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 **Enjoy using HEX to DEC Converter!** 🚀
-```
