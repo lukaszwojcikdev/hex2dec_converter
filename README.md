@@ -9,6 +9,7 @@ Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 
 ## Contents
 - [Application](#application)
+- [Why is it worth using?](#using)
 - [Installation](#installation)
 - [Usage/Examples](#usageexamples)
 - [Documentation](#documentation)
@@ -32,6 +33,19 @@ Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 - Easy-to-use command-line interface.
 - Lightweight and fast.
 
+## Using
+
+### Automation:
+The program eliminates the need to manually convert HEX values ​​to DEC, which saves time and reduces the risk of errors.
+
+### Flexibility:
+Supports both single values ​​and files with multiple HEX values.
+
+### Simplicity:
+It is easy to use thanks to a clear text interface and flag support.
+
+### Security:
+Includes error handling for invalid input data.
 ---
 
 ## Installation
@@ -42,19 +56,23 @@ Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lukaszwojcikdev/hex2dec.git
+   git clone https://github.com/lukaszwojcikdev/hex2dec_converter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd hex2dec
+   cd hex2dec_converter
    ```
 3. Build the project:
    ```bash
-   go build
+   go build -o hex2dec_converter
    ```
-4. Run the executable:
+   or
    ```bash
-   ./hex2dec
+   go build hex2dec_converter.go
+   ```
+5. Run the executable:
+   ```bash
+   ./hex2dec_converter
    ```
 ---
 
@@ -63,7 +81,7 @@ Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 ### Convert a Single HEX Value
 To convert a single HEX value to DEC, use the `-dh` flag:
 ```bash
-./hex2dec -dh 583DFD
+./hex2dec_converter -dh 583DFD
 ```
 Output:
 ```
@@ -73,7 +91,7 @@ Output:
 ### Convert HEX Values from a File
 To convert multiple HEX values from a file, use the `-dhf` flag:
 ```bash
-./hex2dec -dhf input.txt
+./hex2dec_converter -dhf input.txt
 ```
 - **Input File Format**: HEX values should be separated by commas (`,`), e.g., `108AB2,1BBBFE,6386DE`.
 - **Output**: The results will be saved in a file named `input_dec.txt`.
@@ -81,27 +99,41 @@ To convert multiple HEX values from a file, use the `-dhf` flag:
 ### Display Help
 To display the help menu, use the `-h` flag:
 ```bash
-./hex2dec -h
+./hex2dec_converter -h
 ```
 
 ### Display Program Information
 To display information about the program, use the `-i` flag:
 ```bash
-./hex2dec -i
+./hex2dec_converter -i
 ```
 
 ---
 ## Documentation
+Flags:
+-h - Display help.
+-i - Display information about the program.
+-dh - Convert a single HEX value to DEC.
+-dhf - Convert HEX values ​​from a file to DEC and write the result to a new file.
+
+Input file format:
+HEX values ​​in the file should be separated by commas (,) without spaces.
+
+Example:
+```
+108AB2,1BBBFE,6386DE
+```
+
 For detailed documentation, visit the official project page:  
 [https://lukaszwojcik.eu/hex2dec.html](https://lukaszwojcik.eu/hex2dec.html)
 
 ---
 ## Bugs
-If you encounter any bugs or issues, please report them [here](https://github.com/lukaszwojcikdev/hex2dec/issues).
+If you encounter any bugs or issues, please report them [here](https://github.com/lukaszwojcikdev/hex2dec_converter/issues)
 
 ---
 ## Author
-- **Łukasz Michał Wójcik**  
+- **Łukasz Wójcik**  
   - Website: [https://lukaszwojcik.eu](https://lukaszwojcik.eu)  
   - LinkedIn: [https://www.linkedin.com/in/lukasz-michal-wojcik](https://www.linkedin.com/in/lukasz-michal-wojcik)  
   - GitHub: [https://github.com/lukaszwojcikdev](https://github.com/lukaszwojcikdev)
@@ -117,7 +149,7 @@ Visit the official project site for more information:
 
 ---
 ## Download
-You can download the latest release of the project from the [GitHub repository](https://github.com/lukaszwojcikdev/hex2dec/releases).
+You can download the latest release of the project from the [GitHub repository](https://github.com/lukaszwojcikdev/hex2dec_converter/releases).
 
 ---
 ## License
