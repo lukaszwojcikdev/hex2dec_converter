@@ -25,6 +25,7 @@ Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 - [Usage/Examples](#usageexamples)
 - [Documentation](#documentation)
 - [Bugs](#bugs)
+- [Tools](#tools)
 - [Author](#author)
 - [Site](#site)
 - [Summary](#summary)
@@ -141,6 +142,25 @@ Example:
 
 For detailed documentation, visit the official project page:  
 [https://lukaszwojcik.eu/hex2dec.html](https://lukaszwojcik.eu/hex2dec.html)
+
+---
+## 🛠️ Tools Used
+
+In developing **HEX2DEC** and creating this `README.md` file I used the following tools and software:
+
+- [**IrfanView**](https://www.irfanview.com/64bit.htm) - Used for resizing and resampling images.
+- [**TinyPNG**](https://tinypng.com/) - Used for compressing images to reduce file size without losing quality.  
+- [**Notepad++**](https://notepad-plus-plus.org/downloads/) - The code editor used for writing the project.
+- [**Go (Golang)**](https://go.dev/dl/) - The primary programming language used to develop the HEX2DEC converter.  
+- [**Carbon**](https://carbon.now.sh) - Used for creating beautiful images of source code.
+- [**GitHub**](https://github.com/) - Used for version control and hosting the project repository.  
+- [**MD5**](https://fourmilab.ch) - Used to generate MD5 hash file.
+- [**ASCII Generator**](https://patorjk.com/software/taag) - Used to create the ASCII art logo for the project. 
+- [**Shields.io**](https://shields.io/) - Used to generate badges for the `README.md` file (e.g., version, license, etc.).
+- [**Markdown Online**](https://dillinger.io/) - Used for writing and formatting the `README.md` file.
+- [**Unicode Icons**](https://symbolsonly.com) - Used for adding Unicode icons to ## or ### paragraphs.
+- [**Stable Diffusion**](https://stablediffusion.com/tools/ai-image-generator) - Used to generate the cover image.
+- [**🎵 LISTENING MUSIC**](https://www.youtube.com/watch?v=uQ9cZ5nyMDA) - Listening to music while designing the Hex2Dec project.
 
 ---
 ## 🐛 Bugs
