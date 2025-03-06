@@ -9,7 +9,7 @@ $$ |  $$ |$$$$$$$$\ $$ /  $$ |$$$$$$$$\ $$$$$$$  |$$$$$$$$\ \$$$$$$  |
 \__|  \__|\________|\__|  \__|\________|\_______/ \________| \______/ 
 ```
 
-# HEX to DEC Converter
+# 🛠️ HEX to DEC Converter
 Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -18,7 +18,7 @@ Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=Go&logoColor=white&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lukasz-michal-wojcik)
 
-## Contents
+## 📚 Contents
 - [Application](#application)
 - [Why is it worth using?](#using)
 - [Installation](#installation)
@@ -34,34 +34,34 @@ Hex2Dec is a simple but powerful hexadecimal (HEX) to decimal (DEC) converter.
 
 ---
 
-## Application
+## 🚀 Application
 
 **HEX to DEC Converter** is a simple yet powerful command-line tool written in Go (Golang) that converts hexadecimal (HEX) values to decimal (DEC) values. It supports both single HEX values and batch processing from a file. The tool is designed for developers, engineers, and anyone working with numerical systems.
 
-### Key Features:
-- Convert single HEX values to DEC.
-- Process multiple HEX values from a file.
-- Save the results to an output file.
-- Easy-to-use command-line interface.
-- Lightweight and fast.
+### 🔑 Key Features:
+- ✅ Convert single HEX values to DEC.
+- ✅ Process multiple HEX values from a file.
+- ✅ Save the results to an output file.
+- ✅ Easy-to-use command-line interface.
+- ✅ Lightweight and fast.
 
-## Using
+## 💡 Using
 
-### Automation:
+### 🤖 Automation:
 The program eliminates the need to manually convert HEX values ​​to DEC, which saves time and reduces the risk of errors.
 
-### Flexibility:
+### 🎛️ Flexibility:
 Supports both single values ​​and files with multiple HEX values.
 
-### Simplicity:
+### 🛠️ Simplicity:
 It is easy to use thanks to a clear text interface and flag support.
 
-### Security:
+### 🔒 Security:
 Includes error handling for invalid input data.
 
 ---
 
-## Installation
+## 📥 Installation
 
 ### Prerequisites
 - Go (Golang) installed on your system. You can download it from [here](https://golang.org/dl/).
@@ -89,7 +89,7 @@ Includes error handling for invalid input data.
    ```
 ---
 
-## Usage/Examples
+## 🛠️ Usage/Examples
 
 ### Convert a Single HEX Value
 To convert a single HEX value to DEC, use the `-dh` flag:
@@ -122,8 +122,10 @@ To display information about the program, use the `-i` flag:
 ```
 
 ---
-## Documentation
+## 📄 Documentation
+
 Flags:
+
 -h - Display help.
 -i - Display information about the program.
 -dh - Convert a single HEX value to DEC.
@@ -141,32 +143,32 @@ For detailed documentation, visit the official project page:
 [https://lukaszwojcik.eu/hex2dec.html](https://lukaszwojcik.eu/hex2dec.html)
 
 ---
-## Bugs
+## 🐛 Bugs
 If you encounter any bugs or issues, please report them [here](https://github.com/lukaszwojcikdev/hex2dec_converter/issues)
 
 ---
-## Author
+## 👨‍💻 Author
 - **Łukasz Wójcik**  
-  - Website: [https://lukaszwojcik.eu](https://lukaszwojcik.eu)  
-  - LinkedIn: [https://www.linkedin.com/in/lukasz-michal-wojcik](https://www.linkedin.com/in/lukasz-michal-wojcik)  
-  - GitHub: [https://github.com/lukaszwojcikdev](https://github.com/lukaszwojcikdev)
+  - 🌐 Website: [https://lukaszwojcik.eu](https://lukaszwojcik.eu)  
+  - 🔗 LinkedIn: [https://www.linkedin.com/in/lukasz-michal-wojcik](https://www.linkedin.com/in/lukasz-michal-wojcik)  
+  - 🐙 GitHub: [https://github.com/lukaszwojcikdev](https://github.com/lukaszwojcikdev)
 
 ---
-## Site
+## 🌐 Site
 Visit the official project site for more information:  
 [https://lukaszwojcik.eu/hex2dec.html](https://lukaszwojcik.eu/hex2dec.html)
 
 ---
-## Summary
+## 📝 Summary
 **HEX to DEC Converter** is a versatile tool for converting hexadecimal values to decimal values. It is designed to be simple, efficient, and easy to use, making it ideal for developers, engineers, and students working with numerical systems.
 
 ---
-## Disclaimer
+## ⚠️ Disclaimer
 By using this software, you agree to these terms. The software is provided as-is, and you use it at your own risk. The author does not accept any responsibility for damages or issues caused by the use of this software.
 
 ---
-## Download
-You can download the latest release of the project from HERE
+## 📥 Download
+You can download the latest release of the project from HERE 👇
 
 Windows|Linux
 -|-
@@ -175,8 +177,8 @@ Windows|Linux
 
 
 ---
-## License
-This project is licensed under the ** [MIT License](https://choosealicense.com/licenses/mit/)**. 
+## 📜 License
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) 
 
 ---
 **Enjoy using HEX to DEC Converter!** 🚀
