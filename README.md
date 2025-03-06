@@ -125,12 +125,12 @@ To display information about the program, use the `-i` flag:
 ## 📄 Documentation
 
 Flags:
-
+```
 -h - Display help.
 -i - Display information about the program.
 -dh - Convert a single HEX value to DEC.
 -dhf - Convert HEX values ​​from a file to DEC and write the result to a new file.
-
+```
 Input file format:
 HEX values ​​in the file should be separated by commas (,) without spaces.
 
