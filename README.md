@@ -166,11 +166,17 @@ By using this software, you agree to these terms. The software is provided as-is
 
 ---
 ## Download
-You can download the latest release of the project from the [GitHub repository](https://github.com/lukaszwojcikdev/hex2dec_converter/releases).
+You can download the latest release of the project from HERE
+
+Windows|Linux
+-|-
+[ZIP](https://www.lukaszwojcik.eu/hex2dec.zip)|[Source_Code](https://www.lukaszwojcik.eu/hex2dec.go)
+[MD5](https://www.base128.pl/base128.md5sum/)|
+
 
 ---
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the ** [MIT License](https://choosealicense.com/licenses/mit/)**. 
 
 ---
 **Enjoy using HEX to DEC Converter!** 🚀
