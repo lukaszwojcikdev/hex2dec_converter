@@ -46,6 +46,7 @@ It is easy to use thanks to a clear text interface and flag support.
 
 ### Security:
 Includes error handling for invalid input data.
+
 ---
 
 ## Installation
