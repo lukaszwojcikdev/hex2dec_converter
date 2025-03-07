@@ -190,10 +190,13 @@ By using this software, you agree to these terms. The software is provided as-is
 ## 📥 Download
 You can download the latest release of the project from HERE 👇
 
-Windows|Linux
--|-
-[ZIP](https://www.lukaszwojcik.eu/hex2dec.zip)|[Source_Code](https://www.lukaszwojcik.eu/hex2dec.go)
-[MD5](https://www.base128.pl/base128.md5sum/)|
+| Download |
+| ------- |
+| [Hex2Dec.zip](https://www.lukaszwojcik.eu/hex2dec/hex2dec_converter.zip) |
+| [Source_Code](https://www.lukaszwojcik.eu/hex2dec/hex2dec_converter.go) |
+| [MD5](https://lukaszwojcik.eu/hex2dec/hex2dec_converter.zip.md5) |
+| [Carbon](https://www.lukaszwojcik.eu/hex2dec/hex2dec_converter_source_code_carbon.png)|
+
 
 
 ---
